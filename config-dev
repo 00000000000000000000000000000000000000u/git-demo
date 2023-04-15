@@ -1,3 +1,4 @@
 server:
   port: 80
-  info: "hhhhhhhhhhhhhhhhhhhhhh"
+config:
+  info: "version-1"
