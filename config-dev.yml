@@ -1,4 +1,4 @@
 server:
   port: 3355
 config:
-  info: "version-3355-1"
+  info: "config-dev-3355-version-1"
