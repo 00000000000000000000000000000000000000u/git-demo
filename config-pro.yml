@@ -1,0 +1,4 @@
+server:
+  port: 3366
+config:
+  info: "config-pro-3366-version-1"
