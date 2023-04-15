@@ -1,4 +1,0 @@
-server:
-  port: 80
-config:
-  info: "version-1"
